@@ -28,7 +28,7 @@ Opencore版本：0.6.3 ，已关闭CFG（相关参考教程：[从Clover到OC �
 # 备注
 - Insyde的bios关闭CFG可参考以下文章：https://zhuanlan.zhihu.com/p/121655468
 # 配部分图片：
-<imge src="http://github.com/liuze1747566043/Opencore-EFI-For-Z7M-CT7NK/EFI/Docs/Pict/Battery.png">
+<imge src="Docs/Pict/Battery.png">
 <imge src="http://github.com/liuze1747566043/Opencore-EFI-For-Z7M-CT7NK/EFI/Docs/Pict/PowerIn.png">
 <imge src="http://github.com/liuze1747566043/Opencore-EFI-For-Z7M-CT7NK/EFI/Docs/Pict/Tochpad.png">
 <imge src="http://github.com/liuze1747566043/Opencore-EFI-For-Z7M-CT7NK/EFI/Docs/Pict/Bluetooth.png">
