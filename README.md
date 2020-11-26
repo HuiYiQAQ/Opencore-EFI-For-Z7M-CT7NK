@@ -28,7 +28,7 @@ Opencore版本：0.6.3 ，已关闭CFG（相关参考教程：[从Clover到OC �
 # 备注
 - Insyde的bios关闭CFG可参考以下文章：https://zhuanlan.zhihu.com/p/121655468
 # 配部分图片：
- <img src = "Docs/Pict/Battery.png" width = "400" height = "300" >
+ <img src = "Docs/Pict/Battery.png">
  <img src="Docs/Pict/PowerIn.png">
  <img src="Docs/Pict/Tochpad.png">
  <img src="Docs/Pict/Bluetooth.png">
