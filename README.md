@@ -29,15 +29,15 @@ Opencore版本：0.6.3 ，已关闭CFG（相关参考教程：[从Clover到OC �
 - Insyde的bios关闭CFG可参考以下文章：https://zhuanlan.zhihu.com/p/121655468
 # 配部分图片：
 <img src = "Docs/Pict/Battery.png">
-<img src="http://github.com/liuze1747566043/Opencore-EFI-For-Z7M-CT7NK/EFI/Docs/Pict/PowerIn.png">
-<img src="http://github.com/liuze1747566043/Opencore-EFI-For-Z7M-CT7NK/EFI/Docs/Pict/Tochpad.png">
-<img src="http://github.com/liuze1747566043/Opencore-EFI-For-Z7M-CT7NK/EFI/Docs/Pict/Bluetooth.png">
-<img src="http://github.com/liuze1747566043/Opencore-EFI-For-Z7M-CT7NK/EFI/Docs/Pict/Graphics.png">
-<img src="http://github.com/liuze1747566043/Opencore-EFI-For-Z7M-CT7NK/EFI/Docs/Pict/SoftwareUpdate.png">
-<img src="http://github.com/liuze1747566043/Opencore-EFI-For-Z7M-CT7NK/EFI/Docs/Pict/Sidecar.png">
-<img src="http://github.com/liuze1747566043/Opencore-EFI-For-Z7M-CT7NK/EFI/Docs/Pict/Mic.png">
-<img src="http://github.com/liuze1747566043/Opencore-EFI-For-Z7M-CT7NK/EFI/Docs/Pict/Mic LinIn.png">
-<img src="http://github.com/liuze1747566043/Opencore-EFI-For-Z7M-CT7NK/EFI/Docs/Pict/Speaker.png">
+<img src="http://github.com/LookingBackTowind/Opencore-EFI-For-Z7M-CT7NK/Docs/Pict/PowerIn.png">
+<img src="http://github.com/LookingBackTowind/Opencore-EFI-For-Z7M-CT7NK/Docs/Pict/Tochpad.png">
+<img src="http://github.com/LookingBackTowind/Opencore-EFI-For-Z7M-CT7NK/Docs/Pict/Bluetooth.png">
+<img src="http://github.com/LookingBackTowind/Opencore-EFI-For-Z7M-CT7NK/Docs/Pict/Graphics.png">
+<img src="http://github.com/LookingBackTowind/Opencore-EFI-For-Z7M-CT7NK/Docs/Pict/SoftwareUpdate.png">
+<img src="http://github.com/LookingBackTowind/Opencore-EFI-For-Z7M-CT7NK/Docs/Pict/Sidecar.png">
+<img src="http://github.com/LookingBackTowind/Opencore-EFI-For-Z7M-CT7NK/Docs/Pict/Mic.png">
+<img src="http://github.com/LookingBackTowind/Opencore-EFI-For-Z7M-CT7NK/Docs/Pict/Mic LinIn.png">
+<img src="http://github.com/LookingBackTowind/Opencore-EFI-For-Z7M-CT7NK/Docs/Pict/Speaker.png">
 
 
 
