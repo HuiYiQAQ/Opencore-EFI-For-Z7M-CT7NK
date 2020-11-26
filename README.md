@@ -1,6 +1,6 @@
 # Opencore EFI For Hasee Z7M-CT7Nk
-<imge src="https://github.com/LookingBackTowind/Opencore-EFI-For-Z7M-CT7NK/blob/master/Docs/Pict/Hasee.png" width = "800" height = "230"/>
-<img src="https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Logos/OpenCore_with_text_Small.png" width="200" height="48"/>
+<img src="https://github.com/LookingBackTowind/Opencore-EFI-For-Z7M-CT7NK/blob/master/Docs/Pict/Hasee.png" width = "800" height = "230"/>
+
 - [想了解原机配置请点击](http://detail.zol.com.cn/notebook/index1278707.shtml)
 Opencore版本：0.6.3 ，已关闭CFG（相关参考教程：[从Clover到OC （重难点：Insyde BIOS 解锁CFG Lock)](https://zhuanlan.zhihu.com/p/121655468)
 
@@ -28,16 +28,16 @@ Opencore版本：0.6.3 ，已关闭CFG（相关参考教程：[从Clover到OC �
 # 备注
 - Insyde的bios关闭CFG可参考以下文章：https://zhuanlan.zhihu.com/p/121655468
 # 配部分图片：
-<imge src = "Docs/Pict/Battery.png">
-<imge src="http://github.com/liuze1747566043/Opencore-EFI-For-Z7M-CT7NK/EFI/Docs/Pict/PowerIn.png">
-<imge src="http://github.com/liuze1747566043/Opencore-EFI-For-Z7M-CT7NK/EFI/Docs/Pict/Tochpad.png">
-<imge src="http://github.com/liuze1747566043/Opencore-EFI-For-Z7M-CT7NK/EFI/Docs/Pict/Bluetooth.png">
-<imge src="http://github.com/liuze1747566043/Opencore-EFI-For-Z7M-CT7NK/EFI/Docs/Pict/Graphics.png">
-<imge src="http://github.com/liuze1747566043/Opencore-EFI-For-Z7M-CT7NK/EFI/Docs/Pict/SoftwareUpdate.png">
-<imge src="http://github.com/liuze1747566043/Opencore-EFI-For-Z7M-CT7NK/EFI/Docs/Pict/Sidecar.png">
-<imge src="http://github.com/liuze1747566043/Opencore-EFI-For-Z7M-CT7NK/EFI/Docs/Pict/Mic.png">
-<imge src="http://github.com/liuze1747566043/Opencore-EFI-For-Z7M-CT7NK/EFI/Docs/Pict/Mic LinIn.png">
-<imge src="http://github.com/liuze1747566043/Opencore-EFI-For-Z7M-CT7NK/EFI/Docs/Pict/Speaker.png">
+<img src = "Docs/Pict/Battery.png">
+<img src="http://github.com/liuze1747566043/Opencore-EFI-For-Z7M-CT7NK/EFI/Docs/Pict/PowerIn.png">
+<img src="http://github.com/liuze1747566043/Opencore-EFI-For-Z7M-CT7NK/EFI/Docs/Pict/Tochpad.png">
+<img src="http://github.com/liuze1747566043/Opencore-EFI-For-Z7M-CT7NK/EFI/Docs/Pict/Bluetooth.png">
+<img src="http://github.com/liuze1747566043/Opencore-EFI-For-Z7M-CT7NK/EFI/Docs/Pict/Graphics.png">
+<img src="http://github.com/liuze1747566043/Opencore-EFI-For-Z7M-CT7NK/EFI/Docs/Pict/SoftwareUpdate.png">
+<img src="http://github.com/liuze1747566043/Opencore-EFI-For-Z7M-CT7NK/EFI/Docs/Pict/Sidecar.png">
+<img src="http://github.com/liuze1747566043/Opencore-EFI-For-Z7M-CT7NK/EFI/Docs/Pict/Mic.png">
+<img src="http://github.com/liuze1747566043/Opencore-EFI-For-Z7M-CT7NK/EFI/Docs/Pict/Mic LinIn.png">
+<img src="http://github.com/liuze1747566043/Opencore-EFI-For-Z7M-CT7NK/EFI/Docs/Pict/Speaker.png">
 
 
 
