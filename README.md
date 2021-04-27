@@ -5,7 +5,7 @@
 Opencore版本：0.6.3 ，已关闭CFG（相关参考教程：[从Clover到OC （重难点：Insyde BIOS 解锁CFG Lock)](https://zhuanlan.zhihu.com/p/121655468)
 
 # 正常工作的部分：
-- 声卡（由applealc.kext驱动，注入ID：
+- 声卡（由applealc.kext驱动，注入ID：19
 - 内置键盘和触控板手势
 - USB3.0/USB2.0
 - 内置摄像头
