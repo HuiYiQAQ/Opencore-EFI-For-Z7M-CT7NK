@@ -1,4 +1,4 @@
-# Opencore EFI For Hasee Z7M-CT7Nk
+# Opencore EFI For Hasee Z7M-CT7Nk( 系统已持续更新到BigSur11.2.3 )
 <img src="https://github.com/LookingBackTowind/Opencore-EFI-For-Z7M-CT7NK/blob/master/Docs/Pict/Hasee.png" width = "800" height = "230"/>
 
 - [想了解原机配置请点击](http://detail.zol.com.cn/notebook/index1278707.shtml)
