@@ -2,7 +2,8 @@
 <img src="https://github.com/LookingBackTowind/Opencore-EFI-For-Z7M-CT7NK/blob/master/Docs/Pict/Hasee.png" width = "800" height = "230"/>
 
 - [想了解原机配置请点击](http://detail.zol.com.cn/notebook/index1278707.shtml)</br>
-Opencore版本：0.6.3 ，已关闭CFG（相关参考教程：[从Clover到OC （重难点：Insyde BIOS 解锁CFG Lock)](https://zhuanlan.zhihu.com/p/121655468)
+Opencore版本：0.6.3 </br>
+已关闭CFG（相关参考教程：[从Clover到OC （重难点：Insyde BIOS 解锁CFG Lock)](https://zhuanlan.zhihu.com/p/121655468)
 
 # 正常工作的部分：
 - 声卡（由applealc.kext驱动，注入ID：19
